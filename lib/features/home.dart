@@ -1,4 +1,7 @@
 class Home {
-  Home();
+  Home(
+    nane,
+    age,
+  );
   
 }
